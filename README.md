@@ -170,20 +170,20 @@ The system works in demo mode by default. For production use:
 ### Architecture Diagram 
 
 
-![Architecture diagram](assets/output_screenshots/image2.png)
+![Architecture diagram](./assets/output_screenshots/image2.png)
 
 
 ### Workflow Diagram 
 
-![Workflow diagram](assets/output_screenshots/image1.png)
+![Workflow diagram](./assets/output_screenshots/image1.png)
 
 ### CLASS DIAGRAM
 
-![Class diagram](assets/output_screenshots/image3.png)
+![Class diagram](./assets/output_screenshots/image3.png)
 
 ### SEQUENCE DIAGRAM
 
-![Sequence diagram](assets/output_screenshots/image4.png)
+![Sequence diagram](./assets/output_screenshots/image4.png)
 
 
 ## 🧪 Testing
@@ -245,62 +245,62 @@ python test_violations.py
 
 **Admin Loin**
 
-![Admin login screen](assets/output_screenshots/image5.png)
+![Admin login screen](./assets/output_screenshots/image5.png)
 
 
 **Video Upload for Captured CCTV Video File – To Detect the Traffic Violation: -**
 
 **Video Upload and Processing: -**
 
-![Video upload screen](assets/output_screenshots/image6.png)
+![Video upload screen](./assets/output_screenshots/image6.png)
 
 **Upload Video: -**
 
-![Upload video card](assets/output_screenshots/image7.png)
+![Upload video card](./assets/output_screenshots/image7.png)
 
 **Started Video Processing: -**
 
-![Processing status](assets/output_screenshots/image8.png)
+![Processing status](./assets/output_screenshots/image8.png)
 
 **Detected Violations: -**
 
-![Detected violations list](assets/output_screenshots/image9.png)
+![Detected violations list](./assets/output_screenshots/image9.png)
 
 **Violation History: -**
 
-![Violation history dashboard](assets/output_screenshots/image10.png)
+![Violation history dashboard](./assets/output_screenshots/image10.png)
 
 **Statistics Dashboard: -**
 
-![Statistics dashboard](assets/output_screenshots/image11.png)
+![Statistics dashboard](./assets/output_screenshots/image11.png)
 
 **Traffic Violation Dashboard: -**
 
-![Traffic violation dashboard](assets/output_screenshots/image12.png)
+![Traffic violation dashboard](./assets/output_screenshots/image12.png)
 
 **Advanced AI Analytics:-**
 
-![Advanced AI analytics](assets/output_screenshots/image13.png)
+![Advanced AI analytics](./assets/output_screenshots/image13.png)
 
 **Predictive Analytics:-**
 
-![Predictive analytics](assets/output_screenshots/image14.png)
+![Predictive analytics](./assets/output_screenshots/image14.png)
 
 **Reports**
 
-![Reports view](assets/output_screenshots/image15.png)
+![Reports view](./assets/output_screenshots/image15.png)
 
 **Live Alerts Triggering & Monitoring:-**
 
-![Live alerts monitoring](assets/output_screenshots/image16.png)
+![Live alerts monitoring](./assets/output_screenshots/image16.png)
 
 **Alert Configuration:-**
 
-![Alert configuration view](assets/output_screenshots/image17.png)
+![Alert configuration view](./assets/output_screenshots/image17.png)
 
 **SAMPLE ALERT EMAIL**
 
-![Sample alert email](assets/output_screenshots/image18.png)
+![Sample alert email](./assets/output_screenshots/image18.png)
 
 
 
@@ -323,7 +323,7 @@ This project is for educational use at SRM Institute of Science & Technology.
 **Final Year Project Team**
 - SRM Institute of Science & Technology
 - Department: Computer Science & Engineering
-- Academic Year: 2024
+- Academic Year: 2025
 
 ## 📞 Support
 
@@ -335,6 +335,6 @@ For technical support or questions:
 ---
 
 **🎓 Project Done By CHANDRAMOULI GM** 
-**SRM STUDENT**
-**🎓 SRM Institute of Science & Technology**  
-**Final Year Project - Traffic Violation Detection System**
+  **SRM STUDENT**
+  **🎓 SRM Institute of Science & Technology**  
+  **Final Year Project - Traffic Violation Detection System**
