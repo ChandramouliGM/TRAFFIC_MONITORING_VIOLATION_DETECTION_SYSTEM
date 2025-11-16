@@ -165,6 +165,27 @@ The system works in demo mode by default. For production use:
 6. **Result Storage** (Database)
 7. **Alert Generation** (Real-time)
 
+### Project Directory Structure 
+
+### Architecture Diagram 
+
+
+![alt text](image2.png)
+
+
+### Workflow Diagram 
+
+![alt text](image1.png)
+
+### CLASS DIAGRAM
+
+![alt text](image3.png)
+
+### SEQUENCE DIAGRAM
+
+![alt text](image4.png)
+
+
 ## 🧪 Testing
 
 Run the test suite to verify system functionality:
@@ -220,6 +241,69 @@ python test_violations.py
 - **Speed Detection**: ±5 km/h accuracy
 - **Violation Classification**: 80-95% accuracy
 
+### OUTPUT - SCREENSHOTS
+
+**Admin Loin**
+
+![alt text](image5.png)
+
+
+**Video Upload for Captured CCTV Video File – To Detect the Traffic Violation: -**
+
+**Video Upload and Processing: -**
+
+![alt text](image6.png)
+
+**Upload Video: -**
+
+![alt text](image7.png)
+
+**Started Video Processing: -**
+
+![alt text](image8.png)
+
+**Detected Violations: -**
+
+![alt text](image9.png)
+
+**Violation History: -**
+
+![alt text](image10.png)
+
+**Statistics Dashboard: -**
+
+![alt text](image11.png)
+
+**Traffic Violation Dashboard: -**
+
+![alt text](image12.png)
+
+**Advanced AI Analytics:-**
+
+![alt text](image13.png)
+
+**Predictive Analytics:-**
+
+![alt text](image14.png)
+
+**Reports**
+
+![alt text](image15.png)
+
+**Live Alerts Triggering & Monitoring:-**
+
+![alt text](image16.png)
+
+**Alert Configuration:-**
+
+![alt text](image17.png)
+
+**SAMPLE ALERT EMAIL**
+
+![alt text](image18.png)
+
+
+
 ## 🤝 Contributing
 
 This is a final year project for educational purposes. For improvements:
@@ -249,7 +333,8 @@ For technical support or questions:
 - Review system logs in the terminal
 
 ---
-![alt text](image.png)
 
+**🎓 Project Done By CHANDRAMOULI GM** 
+**SRM STUDENT**
 **🎓 SRM Institute of Science & Technology**  
 **Final Year Project - Traffic Violation Detection System**
