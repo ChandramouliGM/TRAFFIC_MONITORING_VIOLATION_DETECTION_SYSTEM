@@ -1,0 +1,28 @@
+# Core dependencies (required)
+streamlit>=1.28.0
+numpy>=1.21.0
+pandas>=1.3.0
+opencv-python>=4.5.0
+psycopg2-binary>=2.9.0
+bcrypt>=4.0.0
+python-dotenv>=1.0.1
+
+# Optional dependencies for full functionality
+# Uncomment the lines below for complete AI features
+
+# AI/ML Models
+# ultralytics>=8.0.0          # YOLO object detection
+# easyocr>=1.6.0              # OCR for license plates
+# torch>=1.11.0               # PyTorch backend
+# torchvision>=0.12.0         # Computer vision utilities
+
+# Additional utilities
+# Pillow>=8.3.0               # Image processing
+# matplotlib>=3.5.0           # Plotting and visualization
+# seaborn>=0.11.0             # Statistical visualization
+# plotly>=5.0.0               # Interactive plots
+
+# Development and testing
+# pytest>=6.0.0               # Testing framework
+# black>=22.0.0               # Code formatting
+# flake8>=4.0.0               # Code linting
