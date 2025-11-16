@@ -249,6 +249,7 @@ For technical support or questions:
 - Review system logs in the terminal
 
 ---
+![alt text](image.png)
 
 **🎓 SRM Institute of Science & Technology**  
 **Final Year Project - Traffic Violation Detection System**
