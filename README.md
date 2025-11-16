@@ -170,20 +170,20 @@ The system works in demo mode by default. For production use:
 ### Architecture Diagram 
 
 
-![alt text](image2.png)
+![Architecture diagram](assets/output_screenshots/image2.png)
 
 
 ### Workflow Diagram 
 
-![alt text](image1.png)
+![Workflow diagram](assets/output_screenshots/image1.png)
 
 ### CLASS DIAGRAM
 
-![alt text](image3.png)
+![Class diagram](assets/output_screenshots/image3.png)
 
 ### SEQUENCE DIAGRAM
 
-![alt text](image4.png)
+![Sequence diagram](assets/output_screenshots/image4.png)
 
 
 ## 🧪 Testing
@@ -245,62 +245,62 @@ python test_violations.py
 
 **Admin Loin**
 
-![alt text](image5.png)
+![Admin login screen](assets/output_screenshots/image5.png)
 
 
 **Video Upload for Captured CCTV Video File – To Detect the Traffic Violation: -**
 
 **Video Upload and Processing: -**
 
-![alt text](image6.png)
+![Video upload screen](assets/output_screenshots/image6.png)
 
 **Upload Video: -**
 
-![alt text](image7.png)
+![Upload video card](assets/output_screenshots/image7.png)
 
 **Started Video Processing: -**
 
-![alt text](image8.png)
+![Processing status](assets/output_screenshots/image8.png)
 
 **Detected Violations: -**
 
-![alt text](image9.png)
+![Detected violations list](assets/output_screenshots/image9.png)
 
 **Violation History: -**
 
-![alt text](image10.png)
+![Violation history dashboard](assets/output_screenshots/image10.png)
 
 **Statistics Dashboard: -**
 
-![alt text](image11.png)
+![Statistics dashboard](assets/output_screenshots/image11.png)
 
 **Traffic Violation Dashboard: -**
 
-![alt text](image12.png)
+![Traffic violation dashboard](assets/output_screenshots/image12.png)
 
 **Advanced AI Analytics:-**
 
-![alt text](image13.png)
+![Advanced AI analytics](assets/output_screenshots/image13.png)
 
 **Predictive Analytics:-**
 
-![alt text](image14.png)
+![Predictive analytics](assets/output_screenshots/image14.png)
 
 **Reports**
 
-![alt text](image15.png)
+![Reports view](assets/output_screenshots/image15.png)
 
 **Live Alerts Triggering & Monitoring:-**
 
-![alt text](image16.png)
+![Live alerts monitoring](assets/output_screenshots/image16.png)
 
 **Alert Configuration:-**
 
-![alt text](image17.png)
+![Alert configuration view](assets/output_screenshots/image17.png)
 
 **SAMPLE ALERT EMAIL**
 
-![alt text](image18.png)
+![Sample alert email](assets/output_screenshots/image18.png)
 
 
 
